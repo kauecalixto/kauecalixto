@@ -4,6 +4,10 @@
 
 Bem-vindo ao meu mundo de código! Aqui, não nos limitamos apenas a linhas e pixels. Eu sou Kauê Calixto, um arquiteto digital, moldando ideias em realidade e desbravando o desconhecido.
 
+## Redes Sociais
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaue_ocalixto)
+
+
 ## 🚀 Sobre Mim
 
 - 💡 Desenvolvedor Back-End apaixonado por desafios inovadores
