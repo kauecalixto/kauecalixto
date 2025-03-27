@@ -11,7 +11,7 @@ Bem-vindo ao meu mundo de código! Aqui, não nos limitamos apenas a linhas e pi
 ## 🚀 Sobre Mim
 
 - 💡 Desenvolvedor Back-End apaixonado por desafios inovadores
-- 🎓 Graduando em [SUPERIOR DE TECNOLOGIA EM DESENVOLVIMENTO BACK-END]
+- 🎓 Graduado em [SUPERIOR DE TECNOLOGIA EM DESENVOLVIMENTO BACK-END]
 - 🌟 Criando soluções únicas para transformar o comum em extraordinário
 - 🚀 Sempre em busca de novas fronteiras tecnológicas
 
